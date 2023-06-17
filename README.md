@@ -2,7 +2,7 @@
 <h4 align="center">
 i am A Back-End developer</p>
 </h4>
-<img src="https://codecondo.com/wp-content/uploads/2014/02/Django-Framework-Logo.png" width="150px" align="center">
+<img src="https://codecondo.com/wp-content/uploads/2014/02/Django-Framework-Logo.png" width="150px" style="display:block; margin:auto;">
  ## &#x1f4c8; Some stats about me
  <p align="center">
  <img src=https://github-profile-trophy.vercel.app/?username=rezamardaniDev&theme=onedark&row=1 />
