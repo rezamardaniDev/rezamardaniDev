@@ -1,7 +1,7 @@
 ### Hello everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Reza Mardani
-<h2 align="center">
+<h4 align="center">
 A Back-End developer</p>
-</h2>
+</h4>
 
 
 <p>
