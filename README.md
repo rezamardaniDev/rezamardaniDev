@@ -5,7 +5,7 @@
 <div align="center">
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_line_logo_icon_146560.png" width="150px">
 </div>
- ## &#x1f4c8; Some stats about me
+
  <p align="center">
  <img src=https://github-profile-trophy.vercel.app/?username=rezamardaniDev&theme=onedark&row=1 />
  	  <img src=https://github-readme-stats.vercel.app/api?username=rezamardaniDev&bg_color=191b1f&title_color=FFE569&text_color=46D1FD&line_height=20&hide=["stars"] />
