@@ -1,4 +1,4 @@
-### Hello everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Reza Mardani
+### Hello everyone I'm Reza Mardani
 <h4 align="center">
 { # i am A Back-End developer # }</p>
 </h4>
