@@ -1,6 +1,6 @@
 ### Hello everyone I'm Reza Mardani
 <h4 align="center">
-{ # i am A Back-End developer # }</p>
+{ # Back-End developer # }</p>
 </h4>
 <div align="center">
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_line_logo_icon_146560.png" width="150px">
