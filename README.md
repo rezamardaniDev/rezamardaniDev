@@ -3,7 +3,7 @@
 i am A Back-End developer</p>
 </h4>
 <div align="center">
- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_line_logo_icon_146560.png" width="300px">
+ <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_line_logo_icon_146560.png" width="200px">
 </div>
  ## &#x1f4c8; Some stats about me
  <p align="center">
