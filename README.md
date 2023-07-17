@@ -49,9 +49,9 @@ I am a Backend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 :hammer_and_wrench: Languages and Tools :
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,postgersql,django,mysql,sqlite,linux,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,postgersql,django,mysql,sqlite,linux,bots,git,github" />
   </a>
 </p>
 
