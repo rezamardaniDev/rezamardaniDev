@@ -2,9 +2,9 @@
 <h4 align="center">
 { # Back-End developer # }</p>
 </h4>
-<div align="center">
+<!-- <div align="center">
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_line_logo_icon_146560.png" width="150px">
-</div>
+</div> -->
 
  <div id="header" align="center">
       <div id="badges">
