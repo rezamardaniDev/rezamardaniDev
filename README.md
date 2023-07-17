@@ -7,12 +7,8 @@
 </div>
 
  <div id="header" align="center">
-    <h1>
-  hey there Im Amir Keramat 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
       <div id="badges">
-          <a href="https://amirkeramat.ir">
+          <a href="https://rezamardani.ir">
               <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="personalwebsite"/>
           </a>
   <a href="https://www.linkedin.com/in/amir-keramat-2780a7280">
@@ -21,7 +17,7 @@
     <a href="">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
     </a>
-    <a href="https://t.me/amirkeramat1">
+    <a href="https://t.me/devsector">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  />
     </a>
   <a href="your-youtube-URL">
@@ -35,7 +31,7 @@
 
 
   <div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=amirkeramat&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=rezamardaniDev&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
 
@@ -43,10 +39,7 @@
 
 :man_technologist:About Me :
 
-I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
-- :telescope: I’m working as a Software Engineer and contributing to frontend  for building the client side of web applications with moden framworks like Nextjs,Reduxjs
-
-- :seedling: Exploring Technical Content Writing.
+I am a Backend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.and also availble to solve your problems
 
