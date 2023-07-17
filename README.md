@@ -51,7 +51,7 @@ I am a Backend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,postgres,django,mysql,sqlite,linux,bots,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,django,postgres,mysql,sqlite,linux,bots,git,github" />
   </a>
 </p>
 
