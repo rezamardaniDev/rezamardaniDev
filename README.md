@@ -51,7 +51,7 @@ I am a Backend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,redux,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,django,mysql,sqlite" />
   </a>
 </p>
 
@@ -59,7 +59,7 @@ I am a Backend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirkeramat&theme=neon)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirkeramat)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rezamardaniDev&theme=neon)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezamardaniDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
