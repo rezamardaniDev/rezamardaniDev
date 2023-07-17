@@ -6,10 +6,15 @@
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_line_logo_icon_146560.png" width="150px">
 </div>
 
- <p align="center">
- <img src=https://github-profile-trophy.vercel.app/?username=rezamardaniDev&theme=onedark&row=1 />
- 	  <img src=https://github-readme-stats.vercel.app/api?username=rezamardaniDev&bg_color=191b1f&title_color=FFE569&text_color=46D1FD&line_height=20&hide=["stars"] />
-  <br/>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rezamardaniDev&layout=compact&hide_border=true&bg_color=191b1f&title_color=46D1FD&text_color=fff&hide=html,css&langs_count=4 />
- 
- 
+ <div id="header" align="center">
+    <h1>
+  hey there Im Amir Keramat 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+      <div id="badges">
+          <a href="https://amirkeramat.ir">
+              <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="personalwebsite"/>
+          </a>
+  <a href="https://www.linkedin.com/in/amir-keramat-2780a7280">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
