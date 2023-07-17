@@ -47,7 +47,7 @@ I am a Backend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-:hammer_and_wrench: my skills :
+:hammer_and_wrench: My Skills :
 
 <p align="center">
   <a href="https://skillicons.dev">
