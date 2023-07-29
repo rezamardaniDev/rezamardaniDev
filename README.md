@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/07072905c6c17b10d7c34414f0f029e7172f34a26a3d4948d566377cdc493501/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d57656c636f6d65266865696768743d3130302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=#000000;text=Welcome&amp;height=100&amp;section=header" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/07072905c6c17b10d7c34414f0f029e7172f34a26a3d4948d566377cdc493501/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d57656c636f6d65266865696768743d3130302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=#000000;text=Welcome&amp;height=100&amp;section=header" style="max-width: 100%;color:black;">
 </div>
 <h3 align="center">Hello everyone I'm Reza Mardani</h3>
 <h4 align="center">
