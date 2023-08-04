@@ -39,7 +39,7 @@
 
 :man_technologist:About Me :
 
-- I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Backend Developer 
 
 - ❤️ I love writing Python and Django Code
 - 🎓 Computer Enginner in Fasa University
