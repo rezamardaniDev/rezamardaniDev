@@ -41,7 +41,9 @@
 
 I am a Backend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
-- :zap: ❤️ I love writing Python and Django
+- ❤️ I love writing Python and Django Code
+- 🎓 Computer Enginner in Fasa University
+- 👨🏻‍💻 Educational support in <a href="https://SabzLearn.ir">SabzLearn.ir</a>
 
 ---
 
