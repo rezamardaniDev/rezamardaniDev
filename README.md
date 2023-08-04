@@ -49,7 +49,7 @@ I am a Backend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,django" />
+    <img src="https://skillicons.dev/icons?i=python,django,js" />
   </a>
 </p>
 
@@ -59,16 +59,3 @@ I am a Backend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
   | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rezamardaniDev&show_icons=true&include_all_commits=true&theme=green&hide_border=true" alt="RezaMardani" /></a> | <a href="https://github.com/rezamardaniDev/python-image-tools"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamardaniDev&layout=compact&theme=green&hide_border=true" /></a> |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-#### Top Repositories
-
-
-<a href="https://github.com/rezamardaniDev/python-image-tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezamardaniDev&repo=python-image-tools&theme=green" />
-</a>
-<a href="https://github.com/rezamardaniDev/django-admin-notification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezamardaniDev&repo=django-admin-notification&theme=green" />
-</a>
-
-<br />
-<br />
