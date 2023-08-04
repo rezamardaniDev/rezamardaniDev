@@ -41,7 +41,7 @@
 
 I am a Backend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.and also availble to solve your problems
+- :zap: ❤️ I love writing Python and Django
 
 ---
 
@@ -57,7 +57,6 @@ I am a Backend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 :fire: My Stats :
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rezamardaniDev&theme=neon)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezamardaniDev)](https://github.com/anuraghazra/github-readme-stats)
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rezamardaniDev&show_icons=true&include_all_commits=true&theme=green&hide_border=true" alt="RezaMardani" /></a> | <a href="https://github.com/rezamardaniDev/python-image-tools"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamardaniDev&layout=compact&theme=green&hide_border=true" /></a> |
 
 ---
