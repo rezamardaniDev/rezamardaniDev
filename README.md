@@ -15,8 +15,6 @@
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  />
     </a>
       </div>
-  <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
-
 
   <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=rezamardaniDev&style=flat-square&color=blue" alt=""/>
