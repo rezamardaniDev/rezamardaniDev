@@ -37,7 +37,7 @@
 
 ---
 
-:man_technologist:About Me :
+:man_technologist: About Me :
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> I am a Backend Developer 
 
