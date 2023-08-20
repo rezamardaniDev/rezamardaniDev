@@ -30,8 +30,7 @@
 
 - ❤️ I love writing Python and Django Code
 - 🎓 Computer Enginner in Fasa University
-- 👨🏻‍💻 Educational support in <a href="https://SabzLearn.ir">SabzLearn.ir</a>
-
+- 
 ---
 
 :hammer_and_wrench: My Skills :
