@@ -6,7 +6,6 @@
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_line_logo_icon_146560.png" width="150px">
 </div> -->
 
-
  <div id="header" align="center">
       <div id="badges">
   <a href="https://www.linkedin.com/in/reza-mardani-232338179/">
