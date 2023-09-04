@@ -29,7 +29,7 @@
 
 - ❤️ I love writing Python and Django Code
 - 🎓 Computer Enginner in Fasa University
----
+--- 
 
 :hammer_and_wrench: My Skills :
 
