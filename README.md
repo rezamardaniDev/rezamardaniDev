@@ -20,7 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=rezamardaniDev&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
-
 ---
 
 :man_technologist: About Me :
