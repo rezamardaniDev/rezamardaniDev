@@ -35,9 +35,10 @@
 
 :hammer_and_wrench: My Skills :
 
+### Front-End
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
   </a>
 </p>
 
