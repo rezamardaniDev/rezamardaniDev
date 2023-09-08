@@ -38,21 +38,21 @@
 ### Front-End
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
   </a>
 </p>
 
 ### Back-End
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite" />
   </a>
 </p>
 
 ### Tools
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,ai,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,ai,vscode" />
   </a>
 </p>
 
