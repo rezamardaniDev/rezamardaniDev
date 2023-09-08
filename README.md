@@ -35,7 +35,7 @@
 
 :hammer_and_wrench: My Skills :
 
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,js" />
   </a>
