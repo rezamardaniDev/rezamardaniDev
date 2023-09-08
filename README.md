@@ -20,8 +20,8 @@
   <img src="https://komarev.com/ghpvc/?username=rezamardaniDev&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
----
 
+---
 :man_technologist: About Me :
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> I am a Backend Developer 
