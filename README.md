@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
 </div>
 
 <h4 align="center">
@@ -52,7 +52,7 @@
 ### Tools
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,pycharm,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
   </a>
 </p>
 
