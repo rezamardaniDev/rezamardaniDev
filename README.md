@@ -49,6 +49,13 @@
   </a>
 </p>
 
+### Tools
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,pycharm,vscode" />
+  </a>
+</p>
+
 ---
 
 :fire: My Stats :
