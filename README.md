@@ -1,4 +1,8 @@
-<span align="center">Hello everyone I'm Reza Mardani</h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<h3 align="center">Hello everyone I'm Reza Mardani</h3>
+<div align="center">
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</div>
+
 <h4 align="center">
 { # Back-End developer # }</p>
 </h4>
