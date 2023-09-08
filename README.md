@@ -52,7 +52,7 @@
 ### Tools
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,ai,vscode" />
   </a>
 </p>
 
