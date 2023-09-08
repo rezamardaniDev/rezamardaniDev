@@ -45,7 +45,7 @@
 ### Back-End
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,sqlite" />
   </a>
 </p>
 
