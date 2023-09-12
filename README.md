@@ -1,3 +1,5 @@
+<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=rezamardaniDev&data=followers,repositories,stars,commits&theme=carbon" />
+
 <div align="center">
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
 </div>
