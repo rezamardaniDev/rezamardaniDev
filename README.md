@@ -35,7 +35,9 @@
 
 ### Front-End
 <div align=center>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,python,js)](https://github.com/Jurredr/github-widgetbox)
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+  </a>
 </div>
 
 ### Back-End
