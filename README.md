@@ -34,7 +34,9 @@
 :hammer_and_wrench: My Skills :
 
 ### Front-End
+<div align=center>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,python,js)](https://github.com/Jurredr/github-widgetbox)
+</div>
 
 ### Back-End
 <p >
