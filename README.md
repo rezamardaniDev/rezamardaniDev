@@ -55,11 +55,3 @@
     <img src="https://skillicons.dev/icons?i=git,github,ai,vscode" />
   </a>
 </p>
-
-
----
-
-:fire: My Stats :
-
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rezamardaniDev&show_icons=true&include_all_commits=true&theme=green&hide_border=true" alt="RezaMardani" /></a> | <a href="https://github.com/rezamardaniDev/python-image-tools"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamardaniDev&layout=compact&theme=green&hide_border=true" /></a> |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
