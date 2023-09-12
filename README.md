@@ -34,7 +34,7 @@
 :hammer_and_wrench: My Skills :
 
 ### Front-End
-<div align=center>
+<div>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
   </a>
