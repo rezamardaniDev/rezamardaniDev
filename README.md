@@ -1,6 +1,8 @@
+```
 👨‍💻 I'am a junior backend programmer and I am in the process of learning
 ⌨ Love python and django coding
 🎓 I'm currently a computer engineering student
+```
 
 ```py
 response = {
