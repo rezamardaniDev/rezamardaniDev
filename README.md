@@ -1,6 +1,3 @@
-```math
-Schrödinger\ equation:\ i\hbar \frac{\delta }{\delta t} |\psi ( t) =\hat{H} |\psi ( t)
-```
 ```py
 response = {
   status: 202,
