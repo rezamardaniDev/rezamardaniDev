@@ -21,7 +21,7 @@ response = {
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezamardaninDev&show_icons=true&locale=en" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezamardaniDev" /></p> -->
 
-# 📊 GitHub Stats:
+### GitHub Stats:
   <div align=center>
     
   ![](https://github-readme-streak-stats.herokuapp.com/?user=rezamardaniDev&theme=vue-dark&hide_border=false)<br/>
