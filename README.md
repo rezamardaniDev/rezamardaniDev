@@ -1,8 +1,8 @@
 ```
 Hello 🙌
 
-👨‍💻 I'm a junior backend programmer and I am in the process of learning
-⌨ Love python and django coding
+👨‍💻 I am a beginner Back-End programmer and I am constantly learning the technologies related to my field
+⌨ Love Python and Django coding
 🎓 I'm currently a computer engineering student
 ```
 
@@ -13,6 +13,8 @@ response = {
     name: "Reza Mardani",
     age: "22",
     university: "Fasa Uni",
+    skills : {
+          'html', 'css', 'tailwindCss', 'git', 'python', 'django', 'rest api', ...
   }
 }
 ```
