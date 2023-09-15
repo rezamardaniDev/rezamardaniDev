@@ -1,3 +1,7 @@
+👨‍💻 I'am a junior backend programmer and I am in the process of learning
+⌨ Love python and django coding
+🎓 I'm currently a computer engineering student
+
 ```py
 response = {
   status: 202,
@@ -7,12 +11,6 @@ response = {
     university: "Fasa Uni",
   }
 }
-
-👨‍💻 I'am a junior backend programmer and I am in the process of learning
-⌨ Love python and django coding
-🎓 I'm currently a computer engineering student
-
-
 ```
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezamardaninDev&show_icons=true&locale=en" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezamardaniDev" /></p> -->
