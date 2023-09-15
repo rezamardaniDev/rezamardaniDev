@@ -1,56 +1,21 @@
-<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=rezamardaniDev&data=followers,repositories,stars,commits&theme=carbon" />
+```math
+Schrödinger\ equation:\ i\hbar \frac{\delta }{\delta t} |\psi ( t) =\hat{H} |\psi ( t)
+```
+```py
+response = {
+  status: 202,
+  data: {
+    name: "Reza Mardani",
+    nickname: "</Ctrl+Z>",
+    age: "22",
+    university: "Uni Fasa",
+  }
+};
+```
+[![Telegram](https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=telegram&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://t.me/EhsanShahbazii)  
+[![linkedin](https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.linkedin.com/in/ehsan-shahbazi-848206225) 
+![](https://komarev.com/ghpvc/?username=EhsanShahbazii&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/EhsanShahbazii)
 
-<h4 align="center">
-{ # Back-End developer # }</p>
-</h4>
-<!-- <div align="center">
- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_line_logo_icon_146560.png" width="150px">
-</div> -->
-
- <div id="header" align="center">
-      <div id="badges">
-  <a href="https://www.linkedin.com/in/reza-mardani-232338179/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>  
-    <a href="https://t.me/devsector">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  />
-    </a>
-      </div>
-
-  <div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=rezamardaniDev&style=flat-square&color=blue" alt=""/>
-</div>
-</div>
-
----
-:man_technologist: About Me :
-
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> I am a Backend Developer 
-
-- ❤️ I love writing Python and Django Code
-- 🎓 Computer Enginner in Fasa University
---- 
-
-:hammer_and_wrench: My Skills :
-
-### Front-End
-<div>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
-  </a>
-</div>
-
-### Back-End
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite" />
-  </a>
-</p>
-
-### Tools
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,ai,vscode" />
-  </a>
-</p>
-
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezamardaninDev&show_icons=true&locale=en" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezamardaniDev" /></p> -->
