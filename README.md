@@ -3,9 +3,8 @@ response = {
   status: 202,
   data: {
     name: "Reza Mardani",
-    nickname: "</Ctrl+Z>",
     age: "22",
-    university: "Uni Fasa",
+    university: "Fasa Uni",
   }
 }
 ```
