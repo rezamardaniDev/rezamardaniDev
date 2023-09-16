@@ -58,12 +58,3 @@ response = {
 <img align="center" alt="Ho3einWave | discord"  src="http://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=FFFFFF" />
 </a>
 </div>
-
-
-<a href="https">
-
-![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)
-  
-</a>
-![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black)
-![Github](https://img.shields.io/badge/-Github-red?color=white&logo=instagram&logoColor=black)
