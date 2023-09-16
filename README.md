@@ -36,7 +36,7 @@ response = {
 <div align="center">
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src='https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,python,django,git,api' />
+      <img src='https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,python,django,git' />
     </a>
   </p>
 </div>
