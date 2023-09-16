@@ -1,9 +1,13 @@
 ```
-Hello 🙌
+Hello I'm Reza 🙌
 
-👨‍💻 I am a beginner Back-End programmer and I am constantly learning the technologies related to my field
-⌨ Love Python and Django coding
-🎓 I'm currently a computer engineering student
+- 🚀 I'm A Back-End Developer 
+<br />
+- 🌱 I Have Been Working In The Field Of Programming For 1 Years
+<br />
+- ⚡ Flex 4 Ever
+<br />
+- 🔥 Hunt Whats You Want :)
 ```
 
 ```py
