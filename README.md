@@ -47,14 +47,3 @@ response = {
 <br />
   <a href="http://www.github.com/rezamardanidev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ho3einwave&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   <a href="http://www.github.com/rezamardanidev"><img src="https://github-readme-stats.vercel.app/api?username=ho3einwave&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3382ed&icon_color=3382ed" /></a>
-
-<h3 align="center">Connect with me 📩</h3>
-<div align="center">
-<a href="https://github.com/rezamardanidev">
-<img align="center" alt="rezamardani | Github"  src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF" />
-</a>
-
-<a href="https://obsv.ga/main">
-<img align="center" alt="Ho3einWave | discord"  src="http://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=FFFFFF" />
-</a>
-</div>
