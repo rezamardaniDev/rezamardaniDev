@@ -44,6 +44,3 @@ response = {
 <h3 align="center">Github Stats 🧭</h3>
 <div align="center">
   <a href="http://www.github.com/ho3einwave"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamardanidev&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3382ed&icon_color=3382ed" />
-<br />
-  <a href="http://www.github.com/rezamardanidev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ho3einwave&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
