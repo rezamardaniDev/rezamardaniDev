@@ -31,7 +31,6 @@ response = {
 <img src="https://komarev.com/ghpvc/?username=rezamardanidev&label=Profile%20views&color=3382ed&style=for-the-badge&" alt="Reza" /> 
 <img src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-blue?style=for-the-badge&color=3382ed" alt="Reza" />
 
-
 </div>
 
 <h3 align="center">My Skills 👓</h3>
