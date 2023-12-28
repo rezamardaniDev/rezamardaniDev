@@ -10,7 +10,6 @@ Hello I'm Reza 🙌
 - 🔥 Hunt Whats You Want :)
 ```
 
-
 ```py
 response = {
   status: 202,
