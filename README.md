@@ -32,7 +32,6 @@ response = {
 
 </div>
 
-
 <h3 align="center">My Skills 👓</h3>
 <div align="center">
 <p align="center">
