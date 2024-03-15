@@ -22,7 +22,7 @@ const [aboutMe, setAboutMe]= useState([{
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,python,django,linux,git,github,sql,drf)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,python,django,linux,git,github,sql)](https://skillicons.dev)
 
 
 
@@ -30,17 +30,17 @@ const [aboutMe, setAboutMe]= useState([{
 <h2>⚡️ &nbsp; Github Stats</h2>
 
 <a href="https://github.com/ramin-kp">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramin-kp&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramin-kp" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rezamardanidev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamardanidev" />
 </a>
 
 ### Social
 
 <p align="left">
-    <a href="https://www.instagram.com/ramin._kp/" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-instagram-96.png?raw=true" width="32" height="32" /></a>
-    <a href="https://github.com/ramin-kp" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-github-96.png?raw=true" width="32" height="32" /></a>
-    <a href="https://t.me/ramin_kp81" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-telegram-96.png?raw=true" width="32" height="32" /></a>
-    <a href="mailto:ramin.kp81@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-gmail-96.png?raw=true" width="32" height="32" /></a>
+    <a href="https://www.instagram.com/rezamardani01/" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-instagram-96.png?raw=true" width="32" height="32" /></a>
+    <a href="https://github.com/rezamardanidev" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-github-96.png?raw=true" width="32" height="32" /></a>
+    <a href="https://t.me/devsector" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-telegram-96.png?raw=true" width="32" height="32" /></a>
+    <a href="mailto:rezamardani.py@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-gmail-96.png?raw=true" width="32" height="32" /></a>
 </p>
 
 ---
