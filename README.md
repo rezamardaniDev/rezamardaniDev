@@ -3,17 +3,17 @@
 
 I am a front-end developer. I am learning and gaining experience in front-end programming. I am interested in programming and the world of zero and one. I like teamwork and site development.👨‍💻
 
-- 🌍  I'm based in Tabriz
-- ✉️  You can contact me at [ramin.kp81@gmail.com](mailto:ramin.kp81@gmail.com)
-- 🧠  I'm learning NextJS & CSS frameworks
-- 🤝  I'm open to collaborating on React based projects
+- 🌍  I'm based in Shiraz
+- ✉️  You can contact me at [rezamardani.py@gmail.com](mailto:rezamardani.py@gmail.com)
+- 🧠  I'm learning Django & Network+
+- 🤝  I'm open to collaborating on Django based projects
 
 ```javascript
 const [aboutMe, setAboutMe]= useState([{
-    firstName: "Ramin",
-    lastName:"Karimpour",
-    city:"Tabriz",
-    job:"Front-end Developer",
+    firstName: "Reza",
+    lastName:"Mardani",
+    city:"Shiraz",
+    job:"Back-End Developer",
     Target: "Senior programmer",
     Level: "Learning and progressing",
 }])
@@ -24,8 +24,10 @@ const [aboutMe, setAboutMe]= useState([{
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+    
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+    
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Django" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" /></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
     <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
