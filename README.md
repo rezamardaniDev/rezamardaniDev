@@ -21,9 +21,13 @@ const [aboutMe, setAboutMe]= useState([{
 
 
 ### Skills
-<div style="width:1rem">
-    ![image](https://github.com/rezamardaniDev/rezamardaniDev/assets/130505071/987b5001-403d-438b-bc82-e4acea5016da)
-</div>
+
+![image](https://github.com/rezamardaniDev/rezamardaniDev/assets/130505071/987b5001-403d-438b-bc82-e4acea5016da)
+![image](https://github.com/rezamardaniDev/rezamardaniDev/assets/130505071/4a4762ef-1290-45c6-923f-7e8614e03ee2)
+![image](https://github.com/rezamardaniDev/rezamardaniDev/assets/130505071/1787a335-4a20-4766-b554-f8f423cf0344)
+![image](https://github.com/rezamardaniDev/rezamardaniDev/assets/130505071/d353a966-137e-409c-b619-fcd2893d2e4b)
+
+
 
 
 <h2>⚡️ &nbsp; Github Stats</h2>
