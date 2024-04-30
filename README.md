@@ -28,6 +28,9 @@ const [aboutMe, setAboutMe]= useState([{
 <br>
 <p>Frameworks - Softwares</p> 
 <img src="https://skillicons.dev/icons?i=django,tailwindcss,bootstrap,postman,git,github,linux">
+<br>
+<p>Databases</p> 
+<img src="https://skillicons.dev/icons?i=mysql,sqlite">
 
 
 
