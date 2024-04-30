@@ -27,7 +27,7 @@ const [aboutMe, setAboutMe]= useState([{
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,php,regex)](https://skillicons.dev)
 
 <p>Frameworks - Softwares</p> <br>
-[![My Skills](https://skillicons.dev/icons?i=django,tailwindcss,bootstrap,postman,git,github,linux)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=django,tailwindcss,bootstrap,postman,git,github,linux">
 
 
 
