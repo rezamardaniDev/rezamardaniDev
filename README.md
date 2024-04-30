@@ -12,6 +12,7 @@ I am a back-end developer. I am learning and gaining experience in back-end prog
 const [aboutMe, setAboutMe]= useState([{
     firstName: "Reza",
     lastName:"Mardani",
+    age: 23
     city:"Shiraz",
     job:"Back-End Developer",
     Target: "Senior programmer",
@@ -22,6 +23,7 @@ const [aboutMe, setAboutMe]= useState([{
 
 ### Skills
 
+language - tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,python,php,django,linux,git,github,mysql)](https://skillicons.dev)
 
 
