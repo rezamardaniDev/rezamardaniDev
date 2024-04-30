@@ -23,10 +23,10 @@ const [aboutMe, setAboutMe]= useState([{
 
 ### Skills
 
-<p>Language - Tools</p> <br>
+<p>Language - Tools</p> 
 <img src="https://skillicons.dev/icons?i=html,css,python,php,regex">
-
-<p>Frameworks - Softwares</p> <br>
+<br>
+<p>Frameworks - Softwares</p> 
 <img src="https://skillicons.dev/icons?i=django,tailwindcss,bootstrap,postman,git,github,linux">
 
 
