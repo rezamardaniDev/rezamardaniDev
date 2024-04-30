@@ -23,9 +23,11 @@ const [aboutMe, setAboutMe]= useState([{
 
 ### Skills
 
-language - tools
+<p>Language - Tools</p>
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,php,regex)](https://skillicons.dev)
 
+<p>Frameworks - Softwares</p>
+[![My Skills](https://skillicons.dev/icons?i=django,tailwindcss,bootstrap,postman,git,github,linux)](https://skillicons.dev)
 
 
 
