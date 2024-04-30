@@ -6,7 +6,7 @@ I am a back-end developer. I am learning and gaining experience in back-end prog
 - ✉️  You can contact me at [rezamardani.py@gmail.com](mailto:rezamardani.py@gmail.com)
 - 🧠  I'm learning Django & Network+
 - 🤖 In love with Developing Telegram Bots
-- 🤝  I'm open to collaborating on Django based projects
+- 🤝  I'm open to collaborating on Python based projects
 
 ```javascript
 const [aboutMe, setAboutMe]= useState([{
