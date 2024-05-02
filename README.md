@@ -12,7 +12,7 @@ I am a back-end developer. I am learning and gaining experience in back-end prog
 const [aboutMe, setAboutMe]= useState([{
     firstName: "Reza",
     lastName:"Mardani",
-    age: 23
+    age: 23,
     city:"Shiraz",
     job:"Back-End Developer",
     Level: "Learning and progressing",
