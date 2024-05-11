@@ -2,6 +2,7 @@
 ---
 I am a back-end developer. I am learning and gaining experience in back-end programming. I am interested in programming and the world of zero and one. I like teamwork and site development.👨‍💻
 
+
 - 🌍  I'm based in Shiraz
 - ✉️  You can contact me at [rezamardani.py@gmail.com](mailto:rezamardani.py@gmail.com)
 - 🧠  I'm learning Django & Network+
