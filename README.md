@@ -5,7 +5,7 @@ I am a back-end developer. I am learning and gaining experience in back-end prog
 
 - 🌍  I'm based in Shiraz
 - ✉️  You can contact me at [rezamardani.py@gmail.com](mailto:rezamardani.py@gmail.com)
-- 🧠  I'm learning Django & Network+
+- 🧠  I'm learning PHP
 - 🤖 In love with Developing Telegram Bots
 - 🤝  I'm open to collaborating on Python based projects
 
