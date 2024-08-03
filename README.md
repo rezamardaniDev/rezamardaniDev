@@ -27,7 +27,7 @@ const aboutMe = [
 <img src="https://skillicons.dev/icons?i=html,css,python,php,regex">
 <br>
 <p>Frameworks - Softwares</p> 
-<img src="https://skillicons.dev/icons?i=django,fastapi,tailwindcss,bootstrap,postman,git,github,linux">
+<img src="https://skillicons.dev/icons?i=django,tailwindcss,bootstrap,postman,git,github,linux">
 <br>
 <p>Databases</p> 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite">
