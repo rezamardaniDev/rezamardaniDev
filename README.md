@@ -9,15 +9,15 @@ I am a back-end developer. I am learning and gaining experience in back-end prog
 - 🤖 In love with Developing Telegram Bots
 - 🤝  I'm open to collaborating on Python based projects
 
-```javascript
-const [aboutMe, setAboutMe]= useState([{
-    firstName: "Reza",
-    lastName:"Mardani",
-    age: 23,
-    city:"Shiraz",
-    job:"Back-End Developer",
-    Level: "Learning and progressing",
-}])
+```php
+const aboutMe = [
+    firstName => "Reza",
+    lastName  => "Mardani",
+    age:      => 23,
+    city      => "Shiraz",
+    job       => "Back-End Developer",
+    Level     => "Learning and progressing",
+];
 ```
 
 
