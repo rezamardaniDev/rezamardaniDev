@@ -36,10 +36,7 @@ const aboutMe = [
 
 <h2>⚡️ &nbsp; Github Stats</h2>
 
-<a href="https://github.com/ramin-kp">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezamardanidev&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamardanidev" />
-</a>
+<img src="https://myreadme.vercel.app/api/embed/rezamardanidev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ### Social
 
