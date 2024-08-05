@@ -40,13 +40,8 @@ const aboutMe = [
 
 ### Social
 
-<p align="left">
-    <a href="https://www.instagram.com/rezamardani01/" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-instagram-96.png?raw=true" width="32" height="32" /></a>
-    <a href="https://github.com/rezamardanidev" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-github-96.png?raw=true" width="32" height="32" /></a>
-    <a href="https://t.me/devsector" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-telegram-96.png?raw=true" width="32" height="32" /></a>
-    <a href="mailto:rezamardani.py@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-gmail-96.png?raw=true" width="32" height="32" /></a>
-</p>
-
+<a href="https://www.linkedin.com/in/rezamardani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/rezamardani01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 ---
 
 ⭐️ From [reza mardani ❤️](https://github.com/rezamardanidev)
