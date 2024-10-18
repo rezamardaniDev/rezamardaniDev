@@ -32,12 +32,6 @@ const aboutMe = [
 <p>Databases</p> 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite">
 
-
-
-<h2>⚡️ &nbsp; Github Stats</h2>
-
-<img src="https://myreadme.vercel.app/api/embed/rezamardanidev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 ### Social
 
 <a href="https://www.linkedin.com/in/rezamardani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
