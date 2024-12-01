@@ -1,41 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=F74736&background=F8FFF400&width=470&lines=Hi+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+My+name+is+Reza;I+am+a+Back-End+Developer)](https://git.io/typing-svg)
+# 💫 About Me:
+🌍  I'm based in Shiraz<br>✉️  You can contact me at rezamardani.py@gmail.com<br>🧠  I'm learning PHP<br>🤖 In love with Developing Telegram Bots<br>🤝  I'm open to collaborating on Python And PHP based projects
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rezamardani) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rezamardaniDev&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rezamardaniDev&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rezamardaniDev&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
-I am a back-end developer. I am learning and gaining experience in back-end programming. I am interested in programming and the world of zero and one. I like teamwork and site development.👨‍💻
+[![](https://visitcount.itsvg.in/api?id=rezamardaniDev&icon=0&color=9)](https://visitcount.itsvg.in)
 
-
-- 🌍  I'm based in Shiraz
-- ✉️  You can contact me at [rezamardani.py@gmail.com](mailto:rezamardani.py@gmail.com)
-- 🧠  I'm learning PHP
-- 🤖 In love with Developing Telegram Bots
-- 🤝  I'm open to collaborating on Python based projects
-
-```php
-const aboutMe = [
-    firstName => "Reza",
-    lastName  => "Mardani",
-    age:      => 23,
-    city      => "Shiraz",
-    job       => "Back-End Developer",
-    Level     => "Learning and progressing",
-];
-```
-
-
-### Skills
-
-<p>Language - Tools</p> 
-<img src="https://skillicons.dev/icons?i=html,css,python,php,regex">
-<br>
-<p>Frameworks - Softwares</p> 
-<img src="https://skillicons.dev/icons?i=django,tailwindcss,bootstrap,postman,git,github,linux">
-<br>
-<p>Databases</p> 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite">
-
-### Social
-
-<a href="https://www.linkedin.com/in/rezamardani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/rezamardani.01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
----
-
-⭐️ From [reza mardani ❤️](https://github.com/rezamardanidev)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
