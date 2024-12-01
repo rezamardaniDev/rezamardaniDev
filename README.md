@@ -2,7 +2,7 @@
 🧠  I'm learning PHP<br>🤖 In love with Developing Telegram Bots<br>🤝  I'm open to collaborating on Python And PHP based projects
 
 
-## 🤝 Let's Connect  
+## 🤙 Social  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezamardani/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mardanireza30@gmail.com)  
