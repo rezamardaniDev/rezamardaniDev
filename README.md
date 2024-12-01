@@ -22,11 +22,17 @@
 
 
 ---
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rezamardaniDev&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rezamardaniDev&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
+## 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rezamardaniDev&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamardaniDev&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 ### 🤙 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezamardani/)  
