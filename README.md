@@ -4,6 +4,7 @@
 🤝 I'm open to collaborating on Python and PHP-based projects
 
 ---
+[![](https://visitcount.itsvg.in/api?id=rezamardaniDev&icon=0&color=9)](https://visitcount.itsvg.in)
 
 ### 💻 Tech Stack:
 <p align="left">
@@ -35,16 +36,12 @@
 </table>
 
 ### 🤙 Social
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/DevSector)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezamardani/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mardanireza30@gmail.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/DevSector)
-
 ---
 
 Feel free to explore my repositories and drop a ⭐ if you like my work! 😊  
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=rezamardaniDev&icon=0&color=9)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
