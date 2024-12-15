@@ -1,8 +1,8 @@
 ### 💫 About Me:
-🐍 - Experienced Python Developer with 3 years 
-🧠 - I'm learning PHP  
-🤖 - In love with Developing Telegram Bots  
-🤝 - I'm open to collaborating on Python and PHP-based projects
+- 🐍 **Experienced Python Developer** with **3+ years** of experience building dynamic applications and bots.  
+- 🧠 Currently exploring and mastering **PHP** to expand my backend skills.  
+- 🤖 Passionate about **Telegram Bot Development** and automation tools.  
+- 🤝 Open to collaboration on Python and PHP-based projects to create innovative solutions.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rezamardaniDev&icon=0&color=9)](https://visitcount.itsvg.in)
@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/>
 </p>
 
-
 ---
 ## 📊 GitHub Stats:
 <table>
@@ -36,9 +35,9 @@
 </table>
 
 ### 🤙 Social
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/DevSector)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/DevSector)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezamardani/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mardanireza30@gmail.com)  
----
 
-Feel free to explore my repositories and drop a ⭐ if you like my work! 😊  
+---
+Feel free to explore my repositories and drop a ⭐ if you like my work! 😊
