@@ -1,7 +1,8 @@
 ### 💫 About Me:
-🧠 I'm learning PHP  
-🤖 In love with Developing Telegram Bots  
-🤝 I'm open to collaborating on Python and PHP-based projects
+🐍 - Experienced Python Developer with 3 years
+🧠 - I'm learning PHP  
+🤖 - In love with Developing Telegram Bots  
+🤝 - I'm open to collaborating on Python and PHP-based projects
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rezamardaniDev&icon=0&color=9)](https://visitcount.itsvg.in)
