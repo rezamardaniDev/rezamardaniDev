@@ -46,7 +46,7 @@
   </tr>
 </table>
 
- [![roadmap.sh](https://roadmap.sh/card/wide/676070ebecc889bb0d0bd029?variant=dark)](https://roadmap.sh)
+ 
 
 
 ### 🤙 Social
