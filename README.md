@@ -46,7 +46,7 @@
   </tr>
 </table>
 
- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/676070ebecc889bb0d0bd029?variant=dark&roadmaps=php" alt="roadmap.sh"/></a>
+ [![roadmap.sh](https://roadmap.sh/card/wide/676070ebecc889bb0d0bd029?variant=dark)](https://roadmap.sh)
 
 ### 🤙 Social
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/DevSector)  
