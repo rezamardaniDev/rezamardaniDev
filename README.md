@@ -43,11 +43,10 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamardaniDev&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
     </td>
-    <td>
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/676070ebecc889bb0d0bd029?variant=dark&roadmaps=php" alt="roadmap.sh"/></a>
-    </td>
   </tr>
 </table>
+
+ <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/676070ebecc889bb0d0bd029?variant=dark&roadmaps=php" alt="roadmap.sh"/></a>
 
 ### 🤙 Social
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/DevSector)  
