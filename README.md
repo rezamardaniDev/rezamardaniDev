@@ -3,7 +3,7 @@
 - 🧠 Currently exploring and mastering **PHP** to expand my backend skills.  
 - 🤖 Passionate about **Telegram Bot Development** and automation tools.  
 - 🤝 Open to collaboration on Python and PHP-based projects to create innovative solutions.
-
+- 
 ---
 
 ### 🌐 Frontend Technologies
@@ -54,5 +54,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mardanireza30@gmail.com)  
 
 [![](https://visitcount.itsvg.in/api?id=rezamardaniDev&icon=0&color=9)](https://visitcount.itsvg.in)
+
 ---
 Feel free to explore my repositories and drop a ⭐ if you like my work! 😊
