@@ -45,8 +45,6 @@
   </tr>
 </table>
 
-<img src="https://roadmap.sh/card/wide/676070ebecc889bb0d0bd029?variant=dark">
-
 ### 🤙 Social
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/DevSector)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezamardani/)  
