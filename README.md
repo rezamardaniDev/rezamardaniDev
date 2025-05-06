@@ -1,5 +1,5 @@
 ### 💫 About Me:
-- 🐍 **Experienced Python Developer** with **3+ years** of experience building dynamic applications and bots.  
+- 🐍 **Experienced Python Developer** with **4+ years** of experience building dynamic applications and bots.  
 - 🧠 Currently exploring and mastering **PHP** to expand my backend skills.  
 - 🤖 Passionate about **Telegram Bot Development** and automation tools.  
 - 🤝 Open to collaboration on Python and PHP-based projects to create innovative solutions.
